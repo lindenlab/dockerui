@@ -1,4 +1,4 @@
-FROM scratch
+FROM registry.docker/debian:jessie
 
 COPY dockerui /
 COPY dist /
