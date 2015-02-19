@@ -5,7 +5,7 @@
     "version": "0.6.0",
     "repository": {
         "type": "git",
-        "url": "git@github.com:crosbymichael/dockerui.git"
+        "url": "git@github.com:lindenlab/dockerui.git"
     },
     "bugs": {
         "url": "https://github.com/crosbymichael/dockerui/issues"
